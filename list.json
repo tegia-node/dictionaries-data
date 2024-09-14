@@ -1,0 +1,7 @@
+{
+	"dictionaries":
+	{
+		"ISO 3166-1": "/data/001.json",
+		"ITU-T E.164": "/data/002.json"
+	}	
+}
