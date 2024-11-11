@@ -1,0 +1,27 @@
+{
+	"info":
+	{
+		"code": "CNAE-2009",
+		"description": "Cправочник Clasificación Nacional de Actividades Económicas 2009 (CNAE-2009), который используется в Испании для классификации экономических видов деятельности",
+		"lang": "esp"
+	},
+	"indexes":
+	{
+		"prefix": "/prefix"
+	},
+	"data": 
+	[
+		{
+			"code": "A",
+			"name": "Agricultura, ganadería, silvicultura y pesca"
+		},
+		{
+			"code": "01",
+			"name": "Agricultura, ganadería, caza y servicios relacionados con las mismas"
+		},
+		{
+			"code": "011",
+			"name": "Cultivos no perennes"
+		}
+	]
+}
